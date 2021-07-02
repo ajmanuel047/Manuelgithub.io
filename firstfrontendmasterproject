@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://fonts.google.com/specimen/Inter">
+  <link href="https://fonts.google.com/specimen/Lexend+Deca">
+  <title>Document</title>
+  <link href="style.css" rel="stylesheet">
+</head>
+<body>
+  <div class="column">
+  <div class="col">
+
+    <h1 style = "color: hsl(0, 0%, 100%);">Get <span class="unique">insights</span> that help your business grow</h1>
+    <p style="font-weight: lighter; color: hsla(0, 0%, 100%, 0.75)">Discover the benefits of data analytics and make better decisions regarding revenue, customer experience, and overall efficiency.</p>
+  </div>
+  
+  <div class="col">
+<img src="image/image-header-desktop.png" alt="">
+
+</div> <!--col close-->
+
+</div><!--column close-->
+<div class="newflex"><!--newflex open-->
+<div class="newcol"><!--10k open-->
+  <h2>10k</h2><p>COMPANIES</p>
+  </div><!--10k close-->
+  <div class="newcol"><!--314 open-->
+  <h2>314</h2><p>TEMPLATES</p>
+  </div><!--314 close-->
+  <div class="newcol"><!--12m open-->
+  <h2>12m+</h2><p>QUERIES</p>
+  </div><!--12m close-->
+  </div><!--newflex close-->
+  
+  <div style="width:325px;height:272px;border:1px solid #000; background-color: hsl(277, 64%, 61%);position: relative; left: 767px; bottom: 378px; opacity: 0.4">
+</body>
+</html>
